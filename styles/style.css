@@ -1,0 +1,335 @@
+.content-section {
+    width: 360px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    background-color: #1e1e1e;
+    font-family: 'Inter', Arial, sans-serif;
+    width: 360px;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, ul, ol, blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 360px;
+    height: 132px;
+    padding: 24px 20px 24px 20px;
+    gap: 168px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.verstka_1 {
+    width: 79px;
+    height: auto;
+    gap: 12px;
+    color: #FFFFFF;
+}
+
+.frame_4 {
+    font-family: Inter, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 19.2px;
+}
+
+.master {
+    color: #F5F5F5;
+    padding-bottom: 12px;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.About_Us {
+    color: #F5F5F5;
+    text-decoration: underline;
+    padding-bottom: 12px;
+}
+
+.contacts {
+    color: #F5F5F5;
+    text-decoration: underline;
+    padding-bottom: 12px;
+}
+
+.cover {
+    color: #FFFFFF;
+    width: 360px;
+    height: 221px;
+    position: relative;
+    font-family: "EB Garamond", sans-serif;
+    margin-bottom: 35px;
+}
+
+.cover_title {
+    position: absolute;
+}
+
+.c {
+    font-size: 72px;
+    margin-left: 20px;
+}
+
+.clean {
+    font-size: 72px;
+    margin-left: 67px;
+}
+
+.list {
+    font-size: 72px;
+    margin-left: 175px;
+}
+
+.line_1 {
+    position: absolute;
+    padding-top: 45px;
+    padding-left: 20px;
+}
+
+.frame_5 {
+    display: flex;
+    justify-content: space-between;
+    padding: 35px 0 24px 20px;
+    width: 360px;
+    font-size: 16px;
+}
+
+.ways_to_fight {
+    color: #CCCCCC;
+    width: 203px;
+}
+
+.date {
+    color: #CCCCCC;
+    padding-right: 35px;
+}
+
+.paragraph_1 {
+    color: #F5F5F5;
+    padding: 0 20px 24px 20px;
+}
+
+.paragraph_2 {
+    color: #F5F5F5;
+    padding: 0 20px 37px 20px;
+}
+
+.reasons {
+    background-color: #FEE42A;
+}
+
+.reasons_title_1 {
+    padding: 40px 0 0 100px;
+    font-size: 28px;
+    font-family: "EB Garamond", Arial, sans-serif;
+    font-weight: bold;
+}
+
+.reasons_title_2 {
+    font-size: 28px;
+    font-family: "EB Garamond", Arial, sans-serif;
+    font-weight: bold;
+    padding: 0 0 32px 20px;
+}
+
+.clean_slate {
+    font-family: Inter, Arial, sans-serif;
+    font-size: 20px;
+    margin: 0 20px 32px 20px;
+}
+
+.list_2 ul {
+    list-style-type: disc;
+    padding-left: 30px;
+}
+
+.list_2 ul li {
+    padding: 0 20px 16px 0;
+    font-family: Inter, Arial, sans-serif;
+    font-size: 16px;
+}
+
+li {
+    padding: 0 20px 16px 20px
+}
+
+span {
+    font-weight: bold;
+}
+
+.how-to_title_1 {
+    padding: 40px 0 0 100px;
+    font-size: 28px;
+    font-family: "EB Garamond", Arial, sans-serif;
+    font-weight: bold;
+    color: #F5F5F5;
+}
+
+.how-to_title_2 {
+    font-size: 28px;
+    font-family: "EB Garamond", Arial, sans-serif;
+    font-weight: bold;
+    padding: 0 0 32px 20px;
+    color: #F5F5F5;
+}
+
+.fear_list {
+    font-family: Inter, Arial, sans-serif;
+    font-size: 20px;
+    margin: 0 0 32px 20px;
+    color: #F5F5F5;
+}
+
+
+.list-item-1 {
+    background-color: #343434;
+    margin: 0 20px 0 20px;
+    border-radius: 20px;
+}
+
+.frame_70 {
+    padding: 20px 136px 8px 20px;
+}
+
+.image_13 {
+    height: 100px;
+    width: 100px;
+    padding-bottom: 8px;
+}
+
+.polarinov {
+    color: #F5F5F5;
+    font-size: 16px;
+    margin-right: 10px;
+    font-family: Inter, Arial, sans-serif;
+}
+
+.frame_71 {
+    font-size: 20px;
+    padding-bottom: 8px;
+}
+
+.start {
+    color: #F5F5F5;
+    padding: 0 20px 20px 20px;
+    font-size: 22px;
+    font-family: "EB Garamond", Arial, sans-serif;
+}
+
+.no_joke {
+    color: #F5F5F5;
+    padding: 0 20px 20px 20px;
+    font-family: Inter, Arial, sans-serif;
+    font-size: 16px;
+}
+
+.list-item-2 {
+    background-color: #FEE42A;
+    border-radius: 20px;
+    margin: 20px 20px 0 20px;
+    padding-top: 20px;
+}
+
+.frame_54_1 {
+    color: #131313;
+    font-family: "EB Garamond", sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 0 20px 8px 20px;
+    line-height: 1.38;
+}
+
+.frame_54_2 {
+    color: #131313;
+    font-family: Inter, Arial, sans-serif;
+    font-size: 16px;
+    padding: 0 20px 20px 20px;
+}
+
+.list-item-3 {
+    background-color: #343434;
+    margin: 20px 20px 0 20px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.frame_72 {
+    color: #F5F5F5;
+}
+
+.image_12 {
+    width: 100px;
+    height: 100px;
+    padding: 20px 20px 8px 20px;
+}
+
+.bunin {
+    color: #F5F5F5;
+    font-size: 16px;
+    padding: 0 0 0 20px;
+    font-family: Inter, Arial, sans-serif;
+}
+
+.frame_73 {
+    color: #F5F5F5;
+}
+
+.frame_73_1 {
+    margin: 8px 20px 8px 20px;
+    color: #F5F5F5;
+    font-family: "EB Garamond", Arial, sans-serif;
+    font-size: 22px;
+}
+
+.frame_73_2 {
+    color: #F5F5F5;
+    font-family: Inter,  Arial, sans-serif;
+    font-size: 16px;
+    padding: 0 20px 20px 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    width: 360px;
+    height: 62px;
+    padding: 20px 248px 20px 20px;
+}
+
+.verstka_2 {
+    color: #F5F5F5;
+    width: 92px;
+    height: 22px;
+    padding: 80px 0 20px 20px;
+    font-family: Inter,  Arial, sans-serif;
+    font-size: 16px;
+}
+
+.socials {
+    display: flex;
+}
+
+.vk {
+    color: #F5F5F5;
+    padding: 80px 16px 22px 0;
+    font-size: 14px;
+    font-family: Inter,  Arial, sans-serif;
+}
+
+.youtube {
+    color: #F5F5F5;
+    padding: 80px 30px 22px 0;
+    font-size: 14px;
+    font-family: Inter,  Arial, sans-serif;
+}
